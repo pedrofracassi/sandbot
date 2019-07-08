@@ -1,0 +1,23 @@
+{
+  "name": "sandbot",
+  "version": "1.0.0",
+  "description": "Personal sandbox bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pedrofracassi/sandbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Pedro Fracassi (@pedrofracassi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrofracassi/sandbot/issues"
+  },
+  "homepage": "https://github.com/pedrofracassi/sandbot#readme"
+}
